@@ -1,0 +1,98 @@
+.gradient-background {
+  background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+
+.profile-img {
+  height: 100px;
+  border-radius: 50%;
+}
+
+#icon-grid {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  left: 5%;
+}
+
+#icon-grid svg {
+  background-color: #e9ecef;
+  border: 10px solid #e9ecef;
+  border-radius: 20%;
+  height: 60px;
+}
+
+
+#icon-grid h3 {
+  display: inline;
+  margin-left: 3%;
+}
+
+#icon-grid p {
+  display: block;
+}
+
+.custom-grid {
+  width: 400px;
+  position: relative;
+  right: 100px;
+}
+
+#title img {
+  position: relative;
+  top: 96px;
+}
+
+#testimonial {
+  background-color: #f8f9fa;
+}
+
+#testimonial h4 {
+  font-size: 2rem;
+}
+
+.test-imgs {
+  display: flex;
+  justify-content: center;
+  gap: 175px;
+  margin-top: 50px;
+}
+
+#testimonial p {
+  font-size: 1.2rem;
+}
+
+#pricing price {
+  display: flex;
+  justify-content: center;
+}
+
+#pricing card {
+  width: 450px;
+  
+
+}
+
+#footer {
+  height: 40vh;
+}
+
