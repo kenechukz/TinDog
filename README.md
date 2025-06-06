@@ -23,12 +23,12 @@ This project was part of my journey to solidify core **HTML**, **CSS**, and **Bo
 
 ## 🎯 Features
 
-- 🚀 Sleek, mobile-first design
+- Sleek, mobile-first design
 - 📱 Responsive layout built entirely with Bootstrap grid
 - 🎨 Custom buttons, card components, and pricing sections
 - 🌈 Clean typography and brand styling with Google Fonts
 - 📦 Icons and badges via Font Awesome
-- ☁️ Hosted live via GitHub Pages
+- Hosted live via GitHub Pages
 
 ---
 
